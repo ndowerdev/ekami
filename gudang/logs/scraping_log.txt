@@ -2,9 +2,49 @@
 
 _________
 
-Report for "sample" Niche with 25 total Keywords :
+Report for "contoh-grafik" Niche with 4584 total Keywords :
 
-=> 25 Keywords with Full data
+=> 4583 Keywords with Full data
+=> 0 keywords Empty Image
+=> 1 keywords Empty Article
+=> 0 keywords with All Empty data
+
+
+_________
+
+Report for "contoh-kalimat" Niche with 4275 total Keywords :
+
+=> 4249 Keywords with Full data
+=> 26 keywords Empty Image
+=> 0 keywords Empty Article
+=> 0 keywords with All Empty data
+
+
+_________
+
+Report for "contoh-karya-ilmiah" Niche with 3119 total Keywords :
+
+=> 3118 Keywords with Full data
+=> 1 keywords Empty Image
+=> 0 keywords Empty Article
+=> 0 keywords with All Empty data
+
+
+_________
+
+Report for "contoh-kata" Niche with 4518 total Keywords :
+
+=> 4510 Keywords with Full data
+=> 8 keywords Empty Image
+=> 0 keywords Empty Article
+=> 0 keywords with All Empty data
+
+
+_________
+
+Report for "format-laporan" Niche with 1123 total Keywords :
+
+=> 1123 Keywords with Full data
 => 0 keywords Empty Image
 => 0 keywords Empty Article
 => 0 keywords with All Empty data

@@ -10,3 +10,5 @@ application/cache/ci_session/*
 /application/cache/blade/*
 !application/cache/blade/.gitkeep
 /*.bat
+gudang/logs/*
+!gudang/logs/.gitkeep

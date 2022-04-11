@@ -1,1 +1,0 @@
-<!-- Footer CSS JS --><?php /**PATH D:\laragon\www\belajardasar\blade\ads/footer.blade.php ENDPATH**/ ?>

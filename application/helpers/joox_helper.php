@@ -267,10 +267,10 @@ if (!function_exists('delete_data')) {
         deleteFile("gudang/db/*.sqlite");
         deleteFile(APPPATH . "/cache/blade/*.php");
 
-        deleteDirectory('export');
-        sleep(1);
-        make_dir('export');
-        sleep(1);
+        // deleteDirectory('export');
+        // sleep(1);
+        // make_dir('export');
+        // sleep(1);
 
         /*$arr_dir = ['compiled'];
 

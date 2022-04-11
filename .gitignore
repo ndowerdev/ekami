@@ -5,3 +5,7 @@ export/*
 gudang/db/*
 !gudang/db/.gitkeep
 /backup-db
+application/cache/ci_session/*
+!application/cache/ci_session/.gitkeep
+/application/cache/blade/*
+!application/cache/blade/.gitkeep

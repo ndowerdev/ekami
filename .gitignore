@@ -1,0 +1,7 @@
+keywords/*
+!keywords/.gitkeep
+export/*
+!export/.gitkeep
+gudang/db/*
+!gudang/db/.gitkeep
+/backup-db

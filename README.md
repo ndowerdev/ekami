@@ -42,3 +42,8 @@ php index.php googlebase delete_data
 php index.php export delete_export
 
 ```
+
+
+##  Windows User Helper
+
+For windows user you can use .BAT file for faster usage, just copy all the `.bat` file on the [win_helper](win_helper/) directory to `root` directory

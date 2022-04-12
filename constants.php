@@ -62,7 +62,7 @@ define("SCRAPER_VERSION",  97); //✔
 | -------------------------------------------------------------------
 */
 
-define("THEME_NAME",    "native1");
+define("THEME_NAME",    "hybrid");
 
 define("SITE_NAME",      "{niche} Tips and References");
 

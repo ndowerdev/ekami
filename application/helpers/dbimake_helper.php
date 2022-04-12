@@ -221,5 +221,3 @@ if(!function_exists('post_details'))
         return $arr;
     }
 }
-
-?>

@@ -60,7 +60,7 @@ if (!function_exists('blade_sitename')) {
         return $title;
     }
 }
-$title = str_replace('-', ' ', $title);
+
 if (!function_exists('blade_sitedesc')) {
     function blade_sitedesc($niche = "")
     {

@@ -55,7 +55,8 @@ if (!function_exists('blade_sitename')) {
         $title = str_replace(['{niche}'], $niche, $sn);
         $title = ucwords($title);
         $title = trim($title);
-        $title = str_replace('-', ' ', ucwords($title));
+        $title = ucwords(str_replace('-', ' ', $title));
+
 
         return $title;
     }

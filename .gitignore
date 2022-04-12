@@ -12,3 +12,4 @@ application/cache/ci_session/*
 /*.bat
 gudang/logs/*
 !gudang/logs/.gitkeep
+/constants.php

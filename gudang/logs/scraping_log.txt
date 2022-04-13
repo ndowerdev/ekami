@@ -2,11 +2,21 @@
 
 _________
 
-Report for "format-laporan" Niche with 14 total Keywords :
+Report for "cara-reset" Niche with 3981 total Keywords :
 
-=> 14 Keywords with Full data
+=> 3974 Keywords with Full data
+=> 6 keywords Empty Image
+=> 1 keywords Empty Article
+=> 0 keywords with All Empty data
+
+
+_________
+
+Report for "username-password" Niche with 138 total Keywords :
+
+=> 134 Keywords with Full data
 => 0 keywords Empty Image
-=> 0 keywords Empty Article
+=> 4 keywords Empty Article
 => 0 keywords with All Empty data
 
 

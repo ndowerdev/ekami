@@ -13,3 +13,4 @@ application/cache/ci_session/*
 gudang/logs/*
 !gudang/logs/.gitkeep
 /constants.php
+/gudang/logs/scraping_log.txt
